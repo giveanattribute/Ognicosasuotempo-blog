@@ -2,12 +2,7 @@
 var firebaseApp = firebase.initializeApp({
     
     
-    apiKey: "AIzaSyDwYG7_CmAtvfZdvjfffOKQCldVpu42qUE",
-    authDomain: "ognicosasuotempo-stories.firebaseapp.com",
-    databaseURL: "https://ognicosasuotempo-stories.firebaseio.com",
-    projectId: "ognicosasuotempo-stories",
-    storageBucket: "ognicosasuotempo-stories.appspot.com",
-    messagingSenderId: "470196048860"
+    /*INSERT CREDENTIALS HERE*/
     
     
     
